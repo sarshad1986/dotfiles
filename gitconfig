@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sarshad1@yahoo.co.uk
+	name = Sarah Arshad
